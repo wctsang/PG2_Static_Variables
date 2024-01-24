@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG2_Static_Variables", "PG2_Static_Variables.vcxproj", "{11F74E98-D47C-43AB-A745-D3FA832707D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F74E98-D47C-43AB-A745-D3FA832707D0}.Debug|x64.ActiveCfg = Debug|x64
+		{11F74E98-D47C-43AB-A745-D3FA832707D0}.Debug|x64.Build.0 = Debug|x64
+		{11F74E98-D47C-43AB-A745-D3FA832707D0}.Release|x64.ActiveCfg = Release|x64
+		{11F74E98-D47C-43AB-A745-D3FA832707D0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9743727A-6D0A-44F6-863D-ADFDE1E3110B}
+	EndGlobalSection
+EndGlobal
